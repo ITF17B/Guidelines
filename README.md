@@ -4,7 +4,7 @@
 
 Die Repository sollte nach folgedem Schema benannt werden:
 
-> [`Nametag`][`Fach`] `Titel der Repository`
+> `Nametag`-`Fach`-`TitelDerRepository`
 
 In der Datei `NAMETAGS.md` in dieser Repo sind alle Nametags aller Contributor zu finden.
 
